@@ -11,12 +11,12 @@ Experimenting docker, micro services etc
 - Create nginx web server: https://www.youtube.com/watch?v=2FOnngHmF7Y
 
 # Exercise project 1
-UI - HTML page: input: name
-Java REST mid-tier deployed on Httpd Apache server
+UI - HTML page: input: name <br>
+Java REST mid-tier deployed on Httpd Apache server 
    * POST to write name to db
    * PUT to update name to db (How ?)
    * Delete name from db
 DB - name stored
 
-Install: Java, Httpd server, Jersey, Mysql, RabbitMQ
-**Extendible to tinyURL
+Install: Java, Httpd server, Jersey, Mysql, RabbitMQ <br>
+Extendible to tinyURL
